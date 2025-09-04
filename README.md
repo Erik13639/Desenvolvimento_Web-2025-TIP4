@@ -13,6 +13,6 @@
 - [Atividade - 09](https://github.com/Erik13639/Atividade-09)
 - [Atividade - 10](https://github.com/Erik13639/Atividade-10)
 - [Atividade - 11](https://github.com/Erik13639/Atividade-11)
-- Atividade - 12
+- [Atividade - 12](https://github.com/Erik13639/Atividade-12)
 - Atividade - 13
 - Atividade - 14
