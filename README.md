@@ -1,6 +1,7 @@
 # Desenvolvimento_Web-2025-TIP4
 
-**Atividades - Desenvolvimento Web**
+**Aluno - Francisco Erik Araújo Barbosa**
+**Atividades - Desenvolvimento Web 1**
 
 - [Atividade - 01](https://erik13639.github.io/Atividade-01/)
 - [Atividade - 02](https://erik13639.github.io/Atividade-02/)
